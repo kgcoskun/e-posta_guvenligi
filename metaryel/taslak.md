@@ -258,4 +258,25 @@ Kredi kartı numaraları, kişisel bilgiler, e-posta dahil her türlü şifre hi
 Bu tip saldırılara karşı korunmanın en etkili yolu, bu konuda bilinçli ve bilgili olmaktır. 
 </p>
 
+//https://tr.wikipedia.org/wiki/E-posta
+<p>
+E-posta ya da e-mail, internet üzerinden gönderilen dijital mektup. Elektronik posta kavramının akronimidir. Görsel olarak kâğıt bir mektup ile aralarında büyük bir fark yoktur. E-postalara resim, müzik, video gibi her türlü dosya türü eklenebilir ve alıcının bilgisayarına transfer edilebilir. Her gün dünyada milyarlarca e-posta gönderilmektedir[1]. Ucuzluğu ve kolaylığı nedeniyle kâğıt mektuplardan daha yaygın olarak kullanılmktadır ancak güvenilirliğinin yetersizliği nedeniyle resmi işlerde kullanımı oldukça kısıtlıdır.
+
+E-posta hesapları, bu hizmeti veren çeşitli sitelerden ücretsiz veya belirli bir ücret karşılığında açılabilir. E-posta adresleri; kullanıcı adı, adres işareti, hesabın oluşturulduğu sitenin e-posta sunucusunun adı, nokta (.) ve site uzantısının aralık bırakılmadan yazılması ile oluşur. Örneğin: vikipedist@vikipedi.org. "@" işareti ise ingilizcedeki "at", yani "x isimli yerde" demektir. Mesela vikipedi.org'da olan birisi ağ (web) sayfasıyla ve özel ileti programları (Outlook, Thunderbird, vs.) ile çeşitli protokollerle (POP3, IMAP, vs.) iletiye ulaşılır.
+
+Bileşenleri
+
+Bir örnekle iletinin İnternetteki akışı
+Gönderen ya da Kimden (From): İletiyi gönderenin bulunağı (adres) ve adı. Burada otomatik olarak kişinin adı olarak gözükse de başka kişinin adı ile de gönderim yapmak mümkündür.
+Alıcı ya da Kime (To): İletiyi alanın bulunağı ve adı. İletinin kime yolladığını gösterir. İleti bulunağının arasına "," virgül koyarak birden fazla kişiye yollamak olanaklıdır. Eğer bulunağınız gozükmüyorsa, Bcc ile gizlenmiş olabilir.
+Konu (Subject): İletiyi özetleyen başlık, genelde daha sonradan anımsanmakta ve iletileri ayırmakta yardımcı olur. Etik olarak yazılması önerilir.
+Tarih (Date): İleti gönderildiğindeki yerel tarih ve saat. Genelde yollayan sunucu veya ileti programı bu saati otomatik olarak ekler. Bazen saat ve gün ayarı bozuk olarak yeni bir ileti, eskiymiş gibi gözükebilir.
+İleti gövdesi (Body): Burada iletinin kendisi ve genel olarak kullanıcı imzası yer alır.
+Karbon kopya "Kk" (Cc, Carbon copy): Aslen gönderilen kişiye ek olarak iletinin başka alıcılara gönderilmesini sağlar. İleti buraya yazılan kişilere doğrudan hitap etmemektedir, ileti bu kişilere bilgilendirme amacı ile yollanmıştır.
+Gizli karbon kopya "Gkk" (Bcc, Blind carbon copy): Kapalı Karbon Kopya olarak da bilinir. Buraya yazılan alicilar iletide gözükmez. Etik olarak birçok kişiye gönderilen gayrı resmi iletiler için bu alanın kullanılması uygun düşer. Bu tür alici gizleme yığın iletiye (spam) karşı da koruma sağlar.
+Yanıtla (Reply): Belli bir bulunaktan gelen iletiyi yanıtlamak icin kullanılır. Alıcı kısmına otomatik olarak ileti yollayanın bulunağı alınır. En çok kullanılan fonksiyonlardan biridir.
+Herkesi yanıtla (Reply all): Yanıtlanan iletiyi, gelen iletinin To ve Cc kısmında yazılmış olan tüm bulunaklara yollamak için kullanılır. En çok suistimal edilen fonksiyonlardan biridir. Genelde tüm bulunaklar açık olarak ve gereksiz bulunaklara gider. Bilgisayara giren virüslerin kullandığı düzeneklerdendir.
+Yönlendirme (Forward, Fwd): Gelen bir iletinin bir başka bulunağa yönlendirilmesini sağlar.
+Ek (Attachment): Yazıya ek olarak yollanan dosyalardır. Dosyalar eklenmeden önce Base64 yöntemiyle kodlanırlar. Ses, resim, video, yazı başta olmak üzere birçok değişik formatta dosya eklenebilir. Virüslerin başlıca yayılma yollarından biridir. Bilinmeyen dosya eklerinin açılması önerilmez.
+</p>
 
