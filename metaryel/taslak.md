@@ -12,3 +12,18 @@ korunma yöntemleri olan anti-virüs yada spam filtrelerini kolaylıkla geçmekt
 
 //http://dereka.com.tr/eposta-guvenligi.html
 
+//http://www.bilgimikoruyorum.org.tr/?b432_eposta_saldiri_yontemleri
+<p>
+Binlerce kişiye ulaşabilme ihtimali, elektronik posta haberleşmesini cazip bir saldırı ortamına da dönüştürüyor.
+
+(resim: e-postaların kontrol altında olması)
+Sizin için iletişim anlamına gelen e-posta, saldırganlar için
+
+size ve yakınlarınıza erişim,
+reklam ve zararlı program yayma fırsatı demektir.
+Toplu eposta gönderme işleminin kolaylığı ve teknolojik gelişmeler düşünülürse saldırganların tek ihtiyaçları
+eposta adresiniz ve
+bir an için dikkatsiz davranmanız.
+Bu kadar çok kullanılan bir aracın kurumsal olarak da kullanılması saldırganların kurum içi bilgilere ulaşmasına fırsat verdiğinden e-posta saldırıları ile kurumsal olarak da mücadele etmek gerekir.
+
+</p>
