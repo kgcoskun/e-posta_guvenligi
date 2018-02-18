@@ -75,3 +75,107 @@ Zararlı programlara karşı korunma programları (Anti-virus, anti-spyware, gü
 Çünkü, bazı taklit (oltalama) e-postaları, bilgisayarınıza zarar verecek veya yaptığınız işlemleri izleyecek yazılımlar içeriyor olabilir. 
 Siz farketmeden bulaşan zararlı yazılımlar varsa güncel korunma programları çok yardımcı olacaktır. 
 </p>
+
+<p>
+Aldatmaca e-posta (Hoax) / Nedir? Nasıl Korunulur?(resim: hoax)
+
+Örnek bir "aldatmaca e-posta" mesajı;
+Örnek - 1
+Orjinal Metin (İngilizce)
+Merhaba, benim adım MIA HEYNS.
+
+19 yaşındayım ve ileri düzeyde akciğer kanseri hastasıyım. Bunun yanı sıra beynimde de büyük bir tümör var. Doktorlar hemen müdahale edilmezse yakında öleceğimi söylüyorlar ve ailem de faturaları karşılayamıyor. “Make-A-Wish” yardımlaşma derneği bu mesaj her gönderildiğinde R7 bağışlayacağını bildirdi.
+
+Bu mesajı ileten kişilere çok teşekkür ederim.
+
+Lütfen, duyarlı davranın ve bu mesajı iletin.
+
+LÜTFEN “CEVAP VER” DÜĞMESİNE DEĞİL “İLET” DÜĞMESİNE BASIN
+
+SAYGILARIMLA,
+
+MIA HEYNS
+
+İngilizcesi;
+
+Hi, my name is MIA HEYNS.
+
+I am 19 years old, and I have severe lung cancer . I also have a large tumour in my brain, from repeated beatings Doctors say I will die soon if this isn't fixed, and my family can't pay the bills. The Make A Wish Foundation has agreed to donate R7 for every time This message is sent on.
+
+For those of you who send this along, I thank you so much, but for those who don't send it, what goes around comes around. Have a Heart, please send this.
+
+Please, if you are a kind person, send this on. 
+PLEASE HIT FORWARD BUTTON NOT REPLY BUTTON.
+
+YOUR'S FAITHFULLY,
+
+MIA HEYNS
+
+
+
+
+Gelen e-postayı başkalarına göndermeni ya da herhangi başka bir eylemde bulunmanı sağlamak amacı ile, içinde aldatmaya ve kandırmaya yönelik ilginç bir konu (ölümcül hastalık, hediye, acil haber, uyarı, komplo teorisi) geçen e-postalardır. Örneğin;
+
+"Bilgisayarınızda ... dosyası varsa o bir virüstür. Hemen silmelisiniz." gibi bir mesaj
+"... havayolunun bu mesaji yolladığınız her 5 kişi için size bedava bir uçuş bileti sağlayacağı" gibi bir mesaj
+Yardım talebinde bulunan bir kişiden gönderilmiş mesaj olabilir
+Aldatmaca (Hoax) e-postalarını nasıl tanırım?
+Gelen e-postada aşağıdakilerden birçoğu birden bulunuyorsa büyük ihtimalle aldatmaca e-postası aldınız!!!
+
+Mesajın sonunda ad soyad belirtilmemiş ise veya verilen ismi araştırdığınızda anlatılanlara uyan somut bilgi bulunamıyorsa,
+İçerisinde aşağıdaki gibi ifadeler geçiyorsa
+'Bu e-postayı bütün tanıdıklarına gönder'
+'Anlatılanlar aldatmaca değildir' veya 'bu bir şehir efsanesi değildir'
+Sıklıkla büyük harfle yazılmış kelimeler ve birden çok ünlem işareti (!!!) birlikte kullanılıyorsa,
+Anlatılanlarda mantıksal olarak çelişen noktalar varsa,
+Size ulaşana kadar birçok defa başkalarına iletildiğini (forward) gösteren adres listeleri varsa,
+Mesaj içerisinde başka hiçbir yerde duymadığınız çok önemli bilgiler içeriyorsa
+</p>
+
+<p>
+Bireysel olarak yapılabilecekler:
+Taklit (yemleme) veya aldatmaca e-postası olduğundan şüphelendiğiniz bir e-posta gördüğünüzde, sistem yöneticisi ile görüşüp kurum genelinde gerekli uyarının yapılması sağlanabilir.
+
+Aldatmaca epostasına karşı kurumsal mesaj örneği;
+Değerli KURUM Personeli,
+
+Son zamanlarda internet üzerinden gelen oltalama (phishing) eposta mesajı miktarında artış gözlenmiştir.
+
+Gelen bu tip mesajların içerisinde, sizin kullanıcı adınız ve parolanız gibi bilgileriniz istenmektedir. Bu sebeple, kullanıcı adınız, parolanız gibi bilgilerin hiç bir sebeple, hiç kimse ile paylaşılmaması gerekmektedir.
+
+Sizden, herhangi bir yolla bu şekilde bilgi istenilmesi durumunda lütfen Sistem Güvenliği personelini haberdar ediniz.
+
+Eğer daha önceden bu şekilde parolanızı herhangi bir kişi ile paylaşmış iseniz, lütfen acilen parolanızı değiştiriniz.
+
+İyi çalışmalar dileriz.
+
+Sistem Güvenliği
+
+
+(resim: eposta - parmak izi)
+Kurum içerisinde komik resimler, ilginç olaylar ve bilgilendirici yazıların toplu olarak gönderilmemesi veya gönderilecekse "gizli karbon kopya" (bcc) olarak gönderilmesi. Aksi takdirde bir kişi bu e-postayı kurum dışından bir kişiye gönderdiğinde, birçok kurumsal e-posta adresine ulaşılabilir.
+
+Kurumsal olarak yapılabilecekler
+Kurum içinde istenmeyen e-postaların bildirilmesi ve gerekli iletişimin yapılabilmesi için, spam@kurumadi.com benzeri bir e-posta hesabı oluşturulabilir.
+Kurumunuzun kullanım sözleşmesine istenmeyen e-postaların yasaklandığı bilgisi ve varsa yaptırımları yazılabilir.
+Kurum sitesinde ya da varsa kurumun dışarıya açık tartışma listesinde kurum çalışanlarının e-posta adreslerini yayınlamama konusunda özen gösterilmelidir.
+Kullanıcıların konuya ilgisini çekmek amacı ile ara sıra hatırlatıcı mesajlar gönderilebilir. 
+</p>
+
+<p>
+Gün içinde haberleşme için çok sık kullandığımız e-postalar, dikkatli davranılmadığında kolayca insanlara zarar vermek, aldatmak ve bu yolla ekonomik çıkar elde etmek için kullanılıyor olabilirler.
+
+Bu sebeple;
+
+E-posta adresleri herkese açık web sitelerinde paylaşılmamalı,
+Tanımadığınız kişilerden gelen her türlü e-postaya cevap verilmemeli,
+Kişisel ve mali bilgiler e-posta üzerinden hiç kimseyle paylaşılmamalı,
+E-posta içinde bulunabilecek bağlantılara tıklanılmamalı,
+İçeriği ne olursa olsun, başkalarına göndermeni isteyen e-postaları kimseye göndermemelisin.
+Güncel anti-virus ve güvenlik duvarı yazılımları kullanılmalı. 
+ 
+</p>
+
+
+
+
