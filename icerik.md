@@ -4,7 +4,7 @@
 <ul>
 <li>e-Posta Nedir?
 <ul>
-  <li>Ne için Kullanılır?</li>
+  <li>e-Posta Nasıl çalışır?</li>
   <li>SMTP, IMAP ve POP Protokollleri</li>
  </ul>
 <li>Niçin e-Posta Güvenliği</li>
