@@ -23,8 +23,12 @@
 <ul> 
 <li>Anti Vürüs Yazılımları</li>
 <li>Spam Filtreleri</li>
-<li>MTA İtibar Sistemleri (SPF, DKIM, DMARC)</li>
+<li>DNS Kayıtları ile MTA İtibar Sistemleri (MX, TXT, PTR, SPF, DKIM, DMARC)</li>
+<li>RBL Listeleri (Black List, Grey List)</li>
+<li>Aynı Anda Sunucu Üzerinden  veya bir e-Posta Hesabından veya Belli bir Domainden Gönderilebilir e-Posta Limiti</li>
+<li>e-Posta ile Gönderilebilinecek Dosya Boyutu Limiti</li>
 <li>Şifreleme Yöntemleri (SSL, TLS ve PGP)</li>
+<li>MTA Relay (Open Relay) ve Anonymous Mail Forwarding</li>
 <li>S/MIME</li>
 <li>Mail Gateway</li>
 <li>Farkındalık İçin Yapılması Gerekenler</li>
