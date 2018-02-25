@@ -11,8 +11,11 @@
 <li>e-Posta saldırı yöntemleri nelerdir?</li>
 <ul>
 <li>İstenmeyen  E-Posta (Spam)</li>
-<li>Taklit/Oltalama E-Posta (Phishing)</li>
+<li>Kötü amaçlı ek içeren E-Posta</li>
+<li>Kötü niyetli web sayfalarına linkler içeren E-Posta</li>  
+<li>İkna etme çabası içeren, oltalama E-Postalar (Phishing)</li>
 <li>Aldatmaca E-Posta (Hoax)</li>
+ -- 
 <li>Ransomware</li> 
 <li>Trojenler</li>
 <li>Vürüsler</li>
