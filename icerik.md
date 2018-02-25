@@ -13,6 +13,7 @@
 <li>İstenmeyen  E-Posta (Spam)</li>
 <li>Taklit/Oltalama E-Posta (Phishing)</li>
 <li>Aldatmaca E-Posta (Hoax)</li>
+<li>Ransomware</li> 
 <li>Trojenler</li>
 <li>Vürüsler</li>
 <li>Solucanlar</li>
