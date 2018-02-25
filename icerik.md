@@ -2,9 +2,9 @@
 <h2>E-Posta Güvenliği</h2>
 <br>
 <ul>
-<li>e-Posta Nedir?
+<li>E-Posta Nedir?
 <ul>
-  <li>e-Posta Nasıl çalışır?</li>
+  <li>E-Posta Nasıl çalışır?</li>
   <li>SMTP, IMAP ve POP Protokollleri</li>
  </ul>
 <li>Niçin e-Posta Güvenliği</li>
@@ -18,13 +18,13 @@
   </ul>
 <li>E-Posta tabanlı beş temel saldırı stratejisine konu olan tehditler</li>
   <ul>
-<li>Ransomware</li> 
-<li>Trojenler</li>
-<li>Vürüsler</li>
-<li>Solucanlar</li>
-<li>Keyloger</li>
-<li>Malware</li>
-<li>Üçüncül Linkler</li>
+<li>Malware (kötü amaçlı yazılımlar)</li> 
+   <p>Ransomware (Fidye/Şantaj yazılımı, virüsü)
+    	Trojenler (Truva Atı)
+    	Virüsler
+    	Worm (Solucanlar)
+     Keyloger (Klavye dinleme yazılımı) </p>
+<li>Üçüncül Linkler (XSS)</li>
 <li>Gizli Soru Tahmini</li>
 </ul>
 <li>e-Posta Üzerinden oluşabilecek Zafiyetler</li>
