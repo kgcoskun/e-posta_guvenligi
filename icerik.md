@@ -8,14 +8,16 @@
   <li>SMTP, IMAP ve POP Protokollleri</li>
  </ul>
 <li>Niçin e-Posta Güvenliği</li>
-<li>e-Posta saldırı yöntemleri nelerdir?</li>
+<li>E-Posta tabanlı beş temel saldırı stratejisi nelerdir?</li>
 <ul>
 <li>İstenmeyen  E-Posta (Spam)</li>
 <li>Kötü amaçlı ek içeren E-Posta</li>
 <li>Kötü niyetli web sayfalarına linkler içeren E-Posta</li>  
 <li>İkna etme çabası içeren, oltalama E-Postalar (Phishing)</li>
 <li>Aldatmaca E-Posta (Hoax)</li>
- -- 
+  </ul>
+<li>E-Posta tabanlı beş temel saldırı stratejisine konu olan tehditler</li>
+  <ul>
 <li>Ransomware</li> 
 <li>Trojenler</li>
 <li>Vürüsler</li>
