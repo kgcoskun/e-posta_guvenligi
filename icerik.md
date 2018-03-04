@@ -23,10 +23,11 @@
     	Trojenler (Truva Atı)
     	Virüsler
     	Worm (Solucanlar)
-     Keyloger (Klavye dinleme yazılımı) </p>
+     Keyloger (Klavye dinleme yazılımı)</p>
 <li>Üçüncül Linkler (XSS)</li>
 <li>Gizli Soru Tahmini</li>
 </ul>
+<li>e-Posta ile gerçekleştirilen örnek bir senaryo</li>  
 <li>e-Posta Üzerinden oluşabilecek Zafiyetler</li>
 <ul>
 <li>Gizlilik</li>
