@@ -175,6 +175,3 @@
 		</p>
 	</ul>
 </ul>
-<p style="margin-bottom: 0in; line-height: 100%"><br/>
-
-</p>
